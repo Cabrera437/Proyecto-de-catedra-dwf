@@ -4,7 +4,7 @@ Bievenido a nuestro repositorio
 > [!IMPORTANT]
 
 
-<h2>:wave: Equipo de Umbrella Corps</h2>
+<h2>:wave: Equipo de desarrollo Umbrella Corps</h2>
 <div style={padding: 10px}>
   <table style={margin: 0 auto}>
   <tr align="center">
